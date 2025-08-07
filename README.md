@@ -1,6 +1,4 @@
-*OtakuGear Emporium
 
----
 
 # 📊 OtakuGear Emporium - Enterprise Risk Management (ERM) Assessment
 
